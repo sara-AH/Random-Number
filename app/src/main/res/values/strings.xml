@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Random-Number</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">   Guess A Random Number Game</string>
+    <string name="text2">I am thinking of a Number between 0-1000 . Try to guess it ! </string>
+    <string name="text3">Enter your guess here :</string>
+    <string name="button1">Guess</string>
+    <string name="Edit"></string>
+    <string name="win"></string>
+    <string name="Try"> TRY AGAIN :)</string>
+    <string name="score"> Score :</string>
+    <string name="scorevalue"> </string>
+
+
+</resources>
